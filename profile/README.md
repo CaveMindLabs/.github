@@ -26,6 +26,18 @@ CaveMind Labs is a solo-powered research and engineering studio focused on build
 
 ---
 
+## 🛠️ Core Tech Stack
+
+| Layer | Key Tools |
+| ----- | --------- |
+| **Backend / APIs** | FastAPI · Django · WebSockets · SSE |
+| **AI / ML** | PyTorch · LangChain · Hugging Face · LoRA · RAG |
+| **DevOps / Cloud** | Docker · Compose · Kubernetes · CI/CD · Cloudflare · Render · Vercel |
+| **Data** | PostgreSQL · ChromaDB · Redis Streams · real-time pipelines |
+| **Frontend** | React (Vite + Tailwind) · Next.js |
+
+---
+
 ## 🔍 Featured Projects
 
 | Project | What it does | Status |
