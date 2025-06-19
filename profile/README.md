@@ -42,7 +42,7 @@ CaveMind Labs is a solo-powered research and engineering studio focused on build
 
 | Project | What it does | Status |
 | ------- | ------------ | ------ |
-| **NoctuaVision** | Real-time low-light instance segmentation | Public release planned |
+| **NoctuaVision** | Real-time low-light instance segmentation | Public Link release planned |
 | **Mind Coven** | Multi-agent LLM brainstorming platform (React + FastAPI + SSE) | Closed source, link upcoming |
 | **EchoMe** | Personalized cross-platform messaging agent | In active development |
 | **Q-A Agent** | Containerized RAG engine with streaming memory | Public release planned |
