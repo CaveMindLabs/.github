@@ -42,10 +42,11 @@ CaveMind Labs is a solo-powered research and engineering studio focused on build
 
 | Project | What it does | Status |
 | ------- | ------------ | ------ |
-| **NoctuaVision** | Real-time low-light instance segmentation | Public Link release planned |
+| **Uformer Hub Service** | Production-grade AI Image & Video Restoration Service (FastAPI, Next.js, Docker) | [GitHub Repo](https://github.com/CaveMindLabs/uformer-hub-service) <br> [YouTube Demo](https://www.youtube.com/watch?v=ncc1vPxfz48) |
 | **Mind Coven** | Multi-agent LLM brainstorming platform (React + FastAPI + SSE) | Closed source, link upcoming |
 | **EchoMe** | Personalized cross-platform messaging agent | In active development |
 | **Q-A Agent** | Containerized RAG engine with streaming memory | Public release planned |
+<!--| **NoctuaVision** | Real-time low-light instance segmentation | Public Link release planned | -->
 
 > 🚧 More experiments are cooking – watch this space for upcoming edge AI demos and LLM tooling. Keep watching the stars ✨
 
